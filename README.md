@@ -6,7 +6,7 @@ This project is a Slack bot which receives messages on the channel, queries the 
 ### Getting started
 To use this project, follow the steps given below:
 
-1. Clone this project `$ git clone https://github.com/parthsuresh/dbpedia-chatbot_warmup` and `$ cd dbpedia-chatbot_warmup`
+1. Clone this project `$ git clone https://github.com/parthsuresh/alfred` and `$ cd alfred`
 2. [Create a slack bot](https://my.slack.com/services/new/bot) and get your token.
 3. Paste the token in [application.properties](/src/main/resources/application.properties) file.
 4. Invite the bot to your channel.
@@ -21,7 +21,7 @@ $ mvn spring-boot:run
 
 This project is Heroku ready. To deploy, you need to perform the below simple steps:
 
-1. Clone this project `$ git clone https://github.com/parthsuresh/dbpedia-chatbot_warmup` and `$ cd dbpedia-chatbot_warmup`
+1. Clone this project `$ git clone https://github.com/parthsuresh/alfred` and `$ cd alfred`
 2. Get your [slack bot token](https://my.slack.com/services/new/bot).
 3. Paste the above tokens/urls in [application.properties](/src/main/resources/application.properties) file.
 4. Invite the bot to your channel.
