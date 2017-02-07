@@ -16,6 +16,17 @@ To use this project, follow the steps given below:
 ```
 $ mvn spring-boot:run
 ```
+
+### Images
+![Image for search query : "Who won the Nobel Prize for physics in 1901?"]
+(/images/NobelPrizeQuestion.png)
+
+![Image for search query : "Who was Napoleon?"]
+(/images/Napoleon.png)
+
+![Image for search query : "What is 2*(10/5)*6 ?"]
+(/images/MathematicalCalculation.png)
+
 ### Dependencies
 
 1. [jbot] (https://github.com/ramswaroop/jbot/) by ramswaroop
