@@ -23,7 +23,7 @@ import com.wolfram.alpha.WASubpod;
 public class WolframAPI {
 
     // PUT YOUR APPID HERE:
-    private static String appid = "WKL72V-9VV78LXGJL";
+    private static String appid = "XXXX";
 
     public static String main(String args) {
 
